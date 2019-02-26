@@ -1,4 +1,4 @@
-# Yasi Ghazal
+# Yasi Ghazal Khar aaaaaaast. Khare man aaaast
 yasighazal@gmail.com - (425)362-7591 -
 Irvine, CA
  ### __HIGHLIGHTS OF QUALIFICATION__
