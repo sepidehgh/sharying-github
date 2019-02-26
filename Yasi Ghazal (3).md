@@ -1,6 +1,6 @@
 # Yasi Ghazal
 yasighazal@gmail.com - (425)362-7591 -
-Irvine,Ca
+Irvine, CA
  ### __HIGHLIGHTS OF QUALIFICATION__
  ____
 * **Currently pursuing a MS in Data Science with the focus in ML.**
