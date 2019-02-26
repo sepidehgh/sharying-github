@@ -3,7 +3,7 @@ yasighazal@gmail.com - (425)362-7591 -
 Irvine, CA
  ### __HIGHLIGHTS OF QUALIFICATION__
  ____
-* **Currently pursuing a MS in Data Science with the focus in ML.**
+* **Currently pursuing a MS in Data Science with focus in Machine Learning.**
 * **Entrepreneur with ability to lead engineers to meet customer pain points.**
 * **Ability to analyze large datasets using Python.**
 * **Proficient coding skills in Python, and familiar with Java and SQL.**
