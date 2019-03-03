@@ -8,13 +8,11 @@ Irvine, CA
 * **Ability to analyze large datasets using Python.**
 * **Proficient coding skills in Python, and familiar with Java and SQL.**
 * **Built and launched a marketplace app on the side with two other engineers.**
- ### __EDUCATION__
+### __EDUCATION__
  ___
- #### Master of Computational and Data Science 
- ##### _Chapman University (Aug 2018 – Present)_
- * 	Machine Learning
- * 	Multivariate Data Analysis 
- * 	Data Structures
+#### Master of Computational and Data Science 
+##### _Chapman University (Aug 2018 – Present)_
+
 #### Microsoft Professional Program in Data Science
 ##### _Edx.com (Sep 2018 – Dec 2018)_
 * Learned and practiced SQL queries against data sets
