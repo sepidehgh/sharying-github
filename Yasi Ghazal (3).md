@@ -12,7 +12,7 @@ Irvine, CA
  ___
 #### Master of Computational and Data Science 
 ##### _Chapman University (Aug 2018 – Present)_
-* Capstone Thesis : Emotion Speech Recognition Based on Volume and Pitch
+* Capstone Thesis : Speech Emotion Recognition Based on Volume and Pitch
 * Coursework :  Machine Learning, Data Mining, Time Series Analysis, Multivariate Data Analysis, Data Structure, Mathematical Modeling.
 
 #### Microsoft Professional Program in Data Science
